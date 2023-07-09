@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @immdin
 - 👀 I’m interested in creating something useful 
-- 🌱 I’m currently learning HTML, CSS. JS, mySQL, Python and machine learning
+- 🌱 I’m currently learning HTML, CSS. JS
 
 
 <!---
